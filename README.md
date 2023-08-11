@@ -14,8 +14,8 @@
 <br>
 
 - 💻 A passionate Self-taught Front-end developer.
-- 🎒 I'm a Final Year Engineering Student.
-- 💻 I'm majoring in Information Technology.
+- 🎒 I'm a 2023 graduate
+- 💻 My major was in Information Technology.
 - 🔥 I develop apps and websites.
 - 💚 Currently freelancing.
 - 🌐 Personal website [link](https://prajesh9921.github.io/)
