@@ -18,7 +18,7 @@
 - 💻 My major was in Information Technology.
 - 🔥 I develop apps and websites.
 - 💚 Currently freelancing.
-- 🌐 Personal website [link](https://prajesh9921.github.io/)
+- 🌐 Personal website [link](https://prajeshgawhale.netlify.app/)
 - 👀 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/16wd4XVVyqzawCB3Td_F9vKkl14pJO-Lp/view)
 
 <br><br>
